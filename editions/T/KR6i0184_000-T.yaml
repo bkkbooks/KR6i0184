@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0184/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說㮈女祇域因緣經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0553.xml
+    old_id: T14n0553
+hash: sha256:898847bef47e2142222f6b54a4fd412dee8b68b08f0a2f950aca76b919f65873

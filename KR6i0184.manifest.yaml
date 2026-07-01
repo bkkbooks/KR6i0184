@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6i0184/v1
+canonical_location: https://kanripo.org/bkk/KR6i0184/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說㮈女祇域因緣經
+  identifiers:
+    alt_id:
+    - T14n0553
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0553.xml
+    old_id: T14n0553
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0184_000.yaml, hash: 'sha256:898847bef47e2142222f6b54a4fd412dee8b68b08f0a2f950aca76b919f65873'}
+  - {seq: 1, filename: KR6i0184_001.yaml, hash: 'sha256:318a1d74de1e13ee8e72e93f059e89de64eb9a65cc64ae7d654168fa6e29c2ff'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0184_001.markers.yaml, hash: 'sha256:788a7542f63198879c65bf8bce548a7a9bb53c2dc8152b87e8d86f5548a3d279'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0184_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7602
+  label: 佛說㮈女祇域因緣經
+  type: juan
+  level: 1
+hash: sha256:897cb9b7797007d41139d87d96b93c62fcbb72838a0600720c959e1eb744950c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
